@@ -24,4 +24,4 @@ class FilmesSpider(scrapy.Spider):
                 self.count_page += 1
                 yield scrapy.Request(url=f'https://filmow.com{next_page}', callback=self.parse)
 
-        #pass
+
