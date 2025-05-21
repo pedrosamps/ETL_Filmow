@@ -1,0 +1,8 @@
+.venv/
+src/Extracao/coletaFilmes/settings.py
+src/Extracao/coletaFilmes/items.py
+src/Extracao/coletaFilmes/middlewares.py
+src/Extracao/coletaFilmes/pipelines.py
+src/Extracao/coletaFilmes/__init__.py
+src/Extracao/coletaFilmes/spiders/__init__.py
+src/Extracao/coletaFilmes/spiders/__pycache__
